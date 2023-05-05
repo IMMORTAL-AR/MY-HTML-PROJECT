@@ -1,0 +1,45 @@
+body {
+   font-family :"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif";
+   font-size : 16px;
+   color : yellow;
+   line-height : 1.5;
+  }
+  
+  header {
+    padding: 20px;
+    color:white;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+  }
+  
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px;
+  }
+  section {
+    margin-bottom: 40px;
+}
+  
+  section h2 {
+    color: white;
+    font-size: 32px;
+  }
+  
